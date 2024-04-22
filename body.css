@@ -1,4 +1,7 @@
 body
 {
-    background-color: cyan;
+    background-image: url("images.jpg");
+    background-position-y: top;
+    background-position-x: right;
+    
 }
