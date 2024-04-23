@@ -5,3 +5,9 @@ body
     background-position-x: right;
     background-repeat: no-repeat;
 }
+p.citat
+{
+    font-style:italic;
+    font-size: 11px;
+    border: 1px solid #000;
+    background-color:#ffffcc;
